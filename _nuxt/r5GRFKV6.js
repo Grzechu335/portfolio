@@ -1,0 +1,1 @@
+import{m as o,f as r,g as s,h as a,H as n}from"./B2BInRvQ.js";const l={};function f(t,e){return r(),s("div",null,[e[0]||(e[0]=a("p",null,"Layout",-1)),n(t.$slots,"default")])}const d=o(l,[["render",f]]);export{d as default};
